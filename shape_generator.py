@@ -6,17 +6,12 @@ timmy = Turtle()
 my_screen = Screen()
 turtle.colormode(255)
 
-
-# colors = ["brown", "light slate gray", "olive", "dark cyan",  "lawn green", "medium turquoise", "indigo",
-#           "medium slate blue", "violet", "orange red"]
-
 def color_picker():
     r = random.randint(0,255)
     g = random.randint(0,255)
     b = random.randint(0,255)
     my_color = (r,g,b)
     return my_color
-
 
 def draw_shape(sides):
     angle = 360/sides
