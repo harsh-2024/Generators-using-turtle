@@ -2,9 +2,9 @@
 
 # Welcome to this Repo where I made: 
 
-* Shape Generator
-* Random Walk Generator
-* Spirograph Generator
+* Shape Generator    ![ Alt text](shape.gif)
+* Random Walk Generator     ![ Alt text](random_Walk.gif)
+* Spirograph Generator      ![ Alt text](spiro.gif)
 
 
 
